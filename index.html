@@ -470,16 +470,18 @@
 
     <script>
         window.addEventListener("load", () => {
-            const loader = document.getElementById("loader");
-            loader.classList.remove("loader--hidden");
+            const loader = document.querySelector(".loader");
+            loader.classList.add("loader--hidden");
 
             loader.addEventListener("transitionend", () => {
-                loader.parentNode.removeChild(loader);
+                if (loader && loader.parentNode) {
+                    loader.parentNode.removeChild(loader);
+                }
             });
         });
 
-        document.addEventListener('click', function(event) {
-            if (event.target.matches('#burger, #card-link')) {
+        document.addEventListener('click', function (event) {
+            if (event.target.id === 'burger' || event.target.id === 'card-link') {
                 event.target.classList.toggle('active');
             }
         });
@@ -489,7 +491,7 @@
             var menuList = document.getElementById('menu-list');
 
             menuIcon.addEventListener('click', function () {
-                menuList.classList.toggle('active', !menuList.classList.contains('active'));
+                menuList.classList.toggle('active');
             });
         });
 
