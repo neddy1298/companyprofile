@@ -292,4 +292,13 @@
                 document.body.removeChild(document.querySelector(".loader"));
             });
         });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            var menuIcon = document.getElementById('menu-icon');
+            var menuList = document.getElementById('menu-list');
+
+            menuIcon.addEventListener('click', function () {
+                menuList.classList.toggle('active');
+            });
+        });
     </script>
