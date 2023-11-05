@@ -93,15 +93,22 @@
 
     <script>
         window.addEventListener("load", () => {
-
             const loader = document.querySelector(".loader");
-
             loader.classList.add("loader--hidden");
 
             loader.addEventListener("transitionend", () => {
-                document.body.removeChild(document.querySelector(".loader"));
+                if (loader && loader.parentNode) {
+                    loader.parentNode.removeChild(loader);
+                }
             });
         });
+
+        document.addEventListener('click', function (event) {
+            if (event.target.id === 'burger' || event.target.id === 'card-link') {
+                event.target.classList.toggle('active');
+            }
+        });
+
         document.addEventListener('DOMContentLoaded', function () {
             var menuIcon = document.getElementById('menu-icon');
             var menuList = document.getElementById('menu-list');
