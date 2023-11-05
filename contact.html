@@ -12,6 +12,8 @@
 </head>
 
 <body>
+    <span class="loader"></span>
+
     <header>
         <div class="logo">Kelompok 1</div>
         <nav>
@@ -90,6 +92,16 @@
     <script src="https://kit.fontawesome.com/7d03b4a6a3.js" crossorigin="anonymous"></script>
 
     <script>
+        window.addEventListener("load", () => {
+
+            const loader = document.querySelector(".loader");
+
+            loader.classList.add("loader--hidden");
+
+            loader.addEventListener("transitionend", () => {
+                document.body.removeChild(document.querySelector(".loader"));
+            });
+        });
         document.addEventListener('DOMContentLoaded', function () {
             var menuIcon = document.getElementById('menu-icon');
             var menuList = document.getElementById('menu-list');
