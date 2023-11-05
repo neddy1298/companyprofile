@@ -472,6 +472,7 @@ header nav ul li a:hover {
     justify-content: center;
     align-items: center;
     margin-top: 30px;
+    padding-inline: 150px;
 }
 
 .container .contactInfo {
@@ -574,14 +575,19 @@ header nav ul li a:hover {
 
 @media (max-width: 991px) {
     .contact {
-        padding: 50px;
+        padding: 0;
+        margin: 0;
+        
     }
-
+    
     .container {
+        padding: 0;
+        margin-bottom: 40px;
         flex-direction: column;
     }
 
     .container .contactInfo {
+        padding: 0;
         margin-bottom: 40px;
     }
 }
