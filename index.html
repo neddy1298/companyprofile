@@ -470,14 +470,18 @@
 
     <script>
         window.addEventListener("load", () => {
-            const loader = document.querySelector(".loader");
-            loader.classList.add("loader--hidden");
+            const loader = document.getElementById("loader");
+            loader.classList.remove("loader--hidden");
 
             loader.addEventListener("transitionend", () => {
-                if (loader && loader.parentNode) {
-                    loader.parentNode.removeChild(loader);
-                }
+                loader.parentNode.removeChild(loader);
             });
+        });
+
+        document.addEventListener('click', function(event) {
+            if (event.target.matches('#burger, #card-link')) {
+                event.target.classList.toggle('active');
+            }
         });
 
         document.addEventListener('DOMContentLoaded', function () {
@@ -485,7 +489,7 @@
             var menuList = document.getElementById('menu-list');
 
             menuIcon.addEventListener('click', function () {
-                menuList.classList.toggle('active');
+                menuList.classList.toggle('active', !menuList.classList.contains('active'));
             });
         });
 
