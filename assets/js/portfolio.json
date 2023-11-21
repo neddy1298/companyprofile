@@ -1,0 +1,101 @@
+{
+  "portfolio1": {
+    "title": "App 1",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-1.jpg",
+    "details": {
+      "client": "Client 1",
+      "projectDate": "01 March, 2022",
+      "projectURL": "www.example1.com",
+      "description": "This is the description for App 1.",
+    }
+  },
+  "portfolio2": {
+    "title": "App 2",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-2.jpg",
+    "details": {
+      "client": "Client 2",
+      "projectDate": "02 March, 2022",
+      "projectURL": "www.example2.com",
+      "description": "This is the description for App 2.",
+    }
+  },
+  "portfolio3": {
+    "title": "App 3",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-3.jpg",
+    "details": {
+      "client": "Client 3",
+      "projectDate": "03 March, 2022",
+      "projectURL": "www.example3.com",
+      "description": "This is the description for App 3.",
+    }
+  },
+  "portfolio4": {
+    "title": "App 4",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-4.jpg",
+    "details": {
+      "client": "Client 4",
+      "projectDate": "04 March, 2022",
+      "projectURL": "www.example4.com",
+      "description": "This is the description for App 4.",
+    }
+  },
+  "portfolio5": {
+    "title": "App 5",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-5.jpg",
+    "details": {
+      "client": "Client 5",
+      "projectDate": "05 March, 2022",
+      "projectURL": "www.example5.com",
+      "description": "This is the description for App 5.",
+    }
+  },
+  "portfolio6": {
+    "title": "App 6",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-6.jpg",
+    "details": {
+      "client": "Client 6",
+      "projectDate": "06 March, 2022",
+      "projectURL": "www.example6.com",
+      "description": "This is the description for App 6.",
+    }
+  },
+  "portfolio7": {
+    "title": "App 7",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-7.jpg",
+    "details": {
+      "client": "Client 7",
+      "projectDate": "07 March, 2022",
+      "projectURL": "www.example7.com",
+      "description": "This is the description for App 7.",
+    }
+  },
+  "portfolio8": {
+    "title": "App 8",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-8.jpg",
+    "details": {
+      "client": "Client 8",
+      "projectDate": "08 March, 2022",
+      "projectURL": "www.example8.com",
+      "description": "This is the description for App 8.",
+    }
+  },
+  "portfolio9": {
+    "title": "App 9",
+    "category": "app",
+    "image": "assets/img/portfolio/portfolio-9.jpg",
+    "details": {
+      "client": "Client 9",
+      "projectDate": "09 March, 2022",
+      "projectURL": "www.example9.com",
+      "description": "This is the description for App 9.",
+    }
+  }
+}
