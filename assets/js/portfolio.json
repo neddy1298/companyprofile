@@ -1,101 +1,119 @@
 {
   "portfolio1": {
-    "title": "App 1",
+    "title": "Streamlt",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-1.jpg",
+    "image1": "assets/img/portfolio/streamlt/home_ui.png",
+    "image2": "assets/img/portfolio/streamlt/discover_ui.png",
+    "image3": "assets/img/portfolio/streamlt/login_ui.png",
     "details": {
-      "client": "Client 1",
-      "projectDate": "01 March, 2022",
-      "projectURL": "www.example1.com",
-      "description": "This is the description for App 1.",
+      "client": "Self Project.",
+      "projectDate": "August 2023",
+      "projectURL": "https://github.com/neddy1298/streamlt",
+      "description": "An Mobile app designed to stream movies and tv shows, discover new movies and tv shows, and manage your watchlist."
     }
   },
   "portfolio2": {
-    "title": "App 2",
+    "title": "Travel Companion",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-2.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 2",
-      "projectDate": "02 March, 2022",
-      "projectURL": "www.example2.com",
-      "description": "This is the description for App 2.",
+      "client": "Wanderlust Travel Co.",
+      "projectDate": "August 2023",
+      "projectURL": "www.travelcompanionapp.com",
+      "description": "An Android app designed to plan trips, discover destinations, and manage travel itineraries with real-time updates on weather and local events."
     }
   },
   "portfolio3": {
-    "title": "App 3",
+    "title": "Finance Manager",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-3.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 3",
-      "projectDate": "03 March, 2022",
-      "projectURL": "www.example3.com",
-      "description": "This is the description for App 3.",
+      "client": "WealthWise Advisors",
+      "projectDate": "September 2023",
+      "projectURL": "www.financemanagerapp.com",
+      "description": "An intuitive web application for financial planning, budgeting, and investment tracking, offering insights for better financial management."
     }
   },
   "portfolio4": {
-    "title": "App 4",
+    "title": "Recipe Master",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-4.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 4",
-      "projectDate": "04 March, 2022",
-      "projectURL": "www.example4.com",
-      "description": "This is the description for App 4.",
+      "client": "Culinary Delights Co.",
+      "projectDate": "October 2023",
+      "projectURL": "www.recipemasterapp.com",
+      "description": "An Android app featuring a vast collection of recipes, meal planning tools, and grocery list generation for culinary enthusiasts."
     }
   },
   "portfolio5": {
-    "title": "App 5",
+    "title": "Task Organizer",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-5.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 5",
-      "projectDate": "05 March, 2022",
-      "projectURL": "www.example5.com",
-      "description": "This is the description for App 5.",
+      "client": "Productivity Experts Ltd.",
+      "projectDate": "November 2023",
+      "projectURL": "www.taskorganizerapp.com",
+      "description": "A web-based task management tool with collaborative features, prioritization, and progress tracking for efficient team workflow."
     }
   },
   "portfolio6": {
-    "title": "App 6",
+    "title": "Language Learning App",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-6.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 6",
-      "projectDate": "06 March, 2022",
-      "projectURL": "www.example6.com",
-      "description": "This is the description for App 6.",
+      "client": "Global Linguistics Inc.",
+      "projectDate": "December 2023",
+      "projectURL": "www.languagelearningapp.com",
+      "description": "An interactive platform for learning new languages with multimedia content, quizzes, and progress tracking."
     }
   },
   "portfolio7": {
-    "title": "App 7",
+    "title": "Home Automation Control",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-7.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 7",
-      "projectDate": "07 March, 2022",
-      "projectURL": "www.example7.com",
-      "description": "This is the description for App 7.",
+      "client": "Smart Living Solutions",
+      "projectDate": "January 2024",
+      "projectURL": "www.homeautomationcontrol.com",
+      "description": "An Android app enabling remote control of home appliances, lighting, and security systems for smart homes."
     }
   },
   "portfolio8": {
-    "title": "App 8",
+    "title": "Online Marketplace",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-8.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 8",
-      "projectDate": "08 March, 2022",
-      "projectURL": "www.example8.com",
-      "description": "This is the description for App 8.",
+      "client": "E-commerce Ventures Ltd.",
+      "projectDate": "February 2024",
+      "projectURL": "www.onlinemarketplaceapp.com",
+      "description": "A comprehensive web platform connecting buyers and sellers for a wide range of products and services."
     }
   },
   "portfolio9": {
-    "title": "App 9",
+    "title": "Fitness Coaching Platform",
     "category": "app",
-    "image": "assets/img/portfolio/portfolio-9.jpg",
+    "image1": "assets/img/portfolio/portfolio-3.jpg",
+    "image2": "assets/img/portfolio/portfolio-1.jpg",
+    "image3": "assets/img/portfolio/portfolio-3.jpg",
     "details": {
-      "client": "Client 9",
-      "projectDate": "09 March, 2022",
-      "projectURL": "www.example9.com",
-      "description": "This is the description for App 9.",
+      "client": "FitPro Services",
+      "projectDate": "March 2024",
+      "projectURL": "www.fitnesscoachingplatform.com",
+      "description": "A web and Android app offering personalized fitness plans, coaching sessions, and progress monitoring for users."
     }
   }
 }
