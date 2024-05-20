@@ -13,16 +13,15 @@
     }
   },
   "portfolio2": {
-    "title": "Travel Companion",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
+    "title": "Code Crafters",
+    "category": "web",
+    "image1": "assets/img/portfolio/code_crafters/home.png",
+    "image2": "assets/img/portfolio/code_crafters/portfolio.png",
     "details": {
-      "client": "Wanderlust Travel Co.",
-      "projectDate": "August 2023",
-      "projectURL": "www.travelcompanionapp.com",
-      "description": "An Android app designed to plan trips, discover destinations, and manage travel itineraries with real-time updates on weather and local events."
+      "client": "Self Project.",
+      "projectDate": "February 2024",
+      "projectURL": "https://project-1.neddyap.live",
+      "description": "Simple Landing Page for a fictional web development company, showcasing services, portfolio, and contact information."
     }
   },
   "portfolio3": {
@@ -36,84 +35,6 @@
       "projectDate": "September 2023",
       "projectURL": "www.financemanagerapp.com",
       "description": "An intuitive web application for financial planning, budgeting, and investment tracking, offering insights for better financial management."
-    }
-  },
-  "portfolio4": {
-    "title": "Recipe Master",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
-    "details": {
-      "client": "Culinary Delights Co.",
-      "projectDate": "October 2023",
-      "projectURL": "www.recipemasterapp.com",
-      "description": "An Android app featuring a vast collection of recipes, meal planning tools, and grocery list generation for culinary enthusiasts."
-    }
-  },
-  "portfolio5": {
-    "title": "Task Organizer",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
-    "details": {
-      "client": "Productivity Experts Ltd.",
-      "projectDate": "November 2023",
-      "projectURL": "www.taskorganizerapp.com",
-      "description": "A web-based task management tool with collaborative features, prioritization, and progress tracking for efficient team workflow."
-    }
-  },
-  "portfolio6": {
-    "title": "Language Learning App",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
-    "details": {
-      "client": "Global Linguistics Inc.",
-      "projectDate": "December 2023",
-      "projectURL": "www.languagelearningapp.com",
-      "description": "An interactive platform for learning new languages with multimedia content, quizzes, and progress tracking."
-    }
-  },
-  "portfolio7": {
-    "title": "Home Automation Control",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
-    "details": {
-      "client": "Smart Living Solutions",
-      "projectDate": "January 2024",
-      "projectURL": "www.homeautomationcontrol.com",
-      "description": "An Android app enabling remote control of home appliances, lighting, and security systems for smart homes."
-    }
-  },
-  "portfolio8": {
-    "title": "Online Marketplace",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
-    "details": {
-      "client": "E-commerce Ventures Ltd.",
-      "projectDate": "February 2024",
-      "projectURL": "www.onlinemarketplaceapp.com",
-      "description": "A comprehensive web platform connecting buyers and sellers for a wide range of products and services."
-    }
-  },
-  "portfolio9": {
-    "title": "Fitness Coaching Platform",
-    "category": "app",
-    "image1": "assets/img/portfolio/portfolio-3.jpg",
-    "image2": "assets/img/portfolio/portfolio-1.jpg",
-    "image3": "assets/img/portfolio/portfolio-3.jpg",
-    "details": {
-      "client": "FitPro Services",
-      "projectDate": "March 2024",
-      "projectURL": "www.fitnesscoachingplatform.com",
-      "description": "A web and Android app offering personalized fitness plans, coaching sessions, and progress monitoring for users."
     }
   }
 }
